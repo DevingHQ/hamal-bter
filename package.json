@@ -1,6 +1,6 @@
 {
   "name": "hamal-bter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A sdk with nodejs for Bter's API",
   "homepage": "https://github.com/devingHQ/hamal-bter",
   "author": {
