@@ -17,7 +17,7 @@ describe('hamal-bter', function () {
     // });
     client
       // .balances()
-      .buy(0.01, 1000)
+      .sell(1, 1000)
       // .buy(0.01, 1000, 'bts_cny')
       .then(data => {
         console.log(data);
